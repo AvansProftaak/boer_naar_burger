@@ -1,0 +1,451 @@
+.navlogo {
+    height: 55px;
+}
+
+.lightblue-background {
+    background-color: #C2F5EB !important;
+}
+
+.navigation-bar {
+    background-color: #005622;
+}
+
+.nav-text {
+    color: #F0FFF9;
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #F0FFF9;
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.nav-text-login {
+    color: #F0FFF9 !important;
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.nav-text:hover {
+    color: #E38F88 !important;
+    font-weight: bold;
+}
+
+.nav-item a:hover {
+    color: #E38F88 !important;
+}
+
+.nav-active {
+    color: #E38F88 !important;
+    font-weight: bold;
+}
+
+.rh-scaleImage {
+    width: 33%;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.welcome-images {
+    text-align: center;
+}
+
+.logoBnB {
+    width: 65%;
+}
+
+#rh-column-links-header {
+    color: rgb(217, 99, 89);
+    text-align: left;
+    font-weight: 1000;
+}
+
+#rh-column-rechts-header {
+    color: rgb(217, 99, 89);
+    text-align: center;
+    font-weight: 1000;
+}
+
+.rh-column-links-tekst {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 0.9vw;
+    text-align: justify;
+}
+
+.modal-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.account-profile-card {
+    background-color: whitesmoke;
+    border-radius: 12px;
+    border: solid 3px #005622;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.white-text {
+    color: whitesmoke;
+}
+
+.green-background {
+    background-color: #005622;
+}
+
+.data-headers {
+    color: #353c4e;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.user-data-header {
+    color: #353c4e;
+    font-size: 16px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+}
+
+.user-data {
+    color: #5c5e61;
+}
+
+.rounded-borders {
+    border-radius: 12px;
+}
+
+.smaller-field {
+    width: 50%
+}
+
+.btn-green {
+    color: whitesmoke;
+    background-color: #005622;
+    border-color: #005622;
+    border-radius: 12px;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-green:hover {
+    background-color: #00471c;
+    border-color: #00471c;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+.btn-green:focus,
+.btn-green.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(53, 135, 86, 0.25);
+    color: whitesmoke;
+}
+
+.btn-bnb-secondary {
+    background-color: #808c85;
+    border-color: #808c85;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+.btn-bnb-secondary:hover {
+    background-color: #5b635f;
+    border-color: #5b635f;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+.btn-bnb-secondary:focus,
+.btn-bnb-secondary.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(122, 128, 125, 0.25);
+    color: whitesmoke;
+}
+
+.btn-pink {
+    color: whitesmoke;
+    background-color: rgb(217, 99, 89);
+    border-color: rgb(217, 99, 89);
+    border-radius: 12px;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-pink:hover {
+    background-color: #ba554c;
+    border-color: #ba554c;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+.btn-pink:focus,
+.btn-pink.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(186, 85, 76, 0.25);
+    color: whitesmoke;
+}
+
+.btn-pink:active {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(186, 85, 76, 0.25);
+    color: whitesmoke;
+}
+
+.footer-content {
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+
+.larger-font {
+    font-size: 18px;
+}
+
+.h2-footer {
+    font-family: "Dosis", sans-serif;
+    text-transform: uppercase;
+}
+
+.footerimage {
+    width: 100%;
+}
+
+.dropdown-right {
+    background-color: #005622;
+}
+
+.dropdown-right-item {
+    color: whitesmoke;
+}
+
+.dropdown-right-item:hover {
+    color: #E38F88;
+    background-color: #00471c;
+    font-weight: bold;
+}
+
+.a-footer {
+    color: white;
+}
+
+.a-footer:hover {
+    color: #E38F88;
+}
+
+.a-icons {
+    font-size: 3em;
+}
+
+.email:hover {
+    color: #E38F88;
+}
+
+.footer-copyright{
+    bottom: 0;
+    width: 100%;
+    background-color: #E38F88;
+    padding: 15px;
+    color:black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 425px;    /* Footer height */
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #005622;
+    height: 425px;
+}
+
+#footer-shop {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #005622;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+#page-container-shop {
+    position: relative;
+    min-height: 100vh;
+    max-width: 730px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content-wrap-shop {
+
+}
+
+.profile-photo {
+    position: relative;
+}
+
+.photo-icon {
+    position: absolute;
+    height: 40px;
+    bottom: 50%;
+    right: 20%;
+}
+
+.photo-icon:hover {
+    -webkit-filter: grayscale(5);
+    -webkit-transition: all .5s ease-in-out;
+    transform: scale(1.1);
+}
+
+.footer-shop-boer{
+    padding: 4px;
+    color:whitesmoke;
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.footer-shop-logo {
+    height: 30px;
+}
+
+.navigation-bar-shop {
+    background-color: #005622;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.shop-title {
+    font-weight: bold !important;
+}
+
+.shop-products {
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: #005622;
+}
+
+a[aria-expanded=true] .fa-chevron-down {
+    display: none;
+}
+a[aria-expanded=false] .fa-chevron-up {
+    display: none;
+}
+
+.fa-chevron-down {
+    color: #005622;
+}
+
+.fa-chevron-up {
+    color: #005622;
+}
+
+.chevron-category {
+    color: whitesmoke !important;
+}
+
+.border-shop {
+    border-bottom: solid 1px;
+    border-color: #005622;
+}
+
+.shop-border {
+    border-top: solid 1px;
+    border-color: #005622;
+}
+
+.table-shop {
+    width: 100%;
+}
+
+.btn-increment {
+    display: inline-block;
+    background-color: #005622;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    padding-right: 9px;
+    padding-left: 9px;
+    border-color: #005622;;
+    color: whitesmoke;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-decrement {
+    display: inline-block;
+    background-color: #005622;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-color: #005622;
+    color: whitesmoke;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-increment:hover {
+    background-color: #00471c;
+    border-color: #00471c;
+    border-radius: 6px;
+    color: whitesmoke;
+}
+
+.btn-decrement:hover {
+    background-color: #00471c;
+    border-color: #00471c;
+    border-radius: 6px;
+    color: whitesmoke;
+}
+
+.btn-increment:focus,
+.btn-increment.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(53, 135, 86, 0.25);
+    color: whitesmoke;
+}
+
+.btn-decrement:focus,
+.btn-decrement.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(53, 135, 86, 0.25);
+    color: whitesmoke;
+}
+
+.shop-width {
+    width: 25%
+}
+
+.price-width {
+    width: 10%
+}
+
+.product-width {
+    width: 55%;
+}
+
+.order-overview-width {
+    width: 50%;
+}
+
+.btn-padding {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.shop-form-background {
+    background-color: whitesmoke;
+}
